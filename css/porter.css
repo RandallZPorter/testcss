@@ -1,0 +1,22 @@
+body {
+    /* font-family: fantasy */
+    margin: 1em;
+    padding: 1em;
+}
+
+h1 {
+    border-style: solid;
+    padding : 1em;
+    margin: 0.5em;
+    margin-top: 2em;
+    background-color: #006747;
+    color: white;
+}
+
+.important {
+    color: palevioletred
+}
+
+#current {
+    color:red;
+}
